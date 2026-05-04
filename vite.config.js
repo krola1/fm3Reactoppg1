@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/FM3REACTOPPG1/",
+  base: "/fm3Reactoppg1/",
 });
